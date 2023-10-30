@@ -1,4 +1,0 @@
-/Users/floyz/VSCode/cpp/mmo/chat/build/CMakeFiles/server.dir
-/Users/floyz/VSCode/cpp/mmo/chat/build/CMakeFiles/client.dir
-/Users/floyz/VSCode/cpp/mmo/chat/build/CMakeFiles/edit_cache.dir
-/Users/floyz/VSCode/cpp/mmo/chat/build/CMakeFiles/rebuild_cache.dir
